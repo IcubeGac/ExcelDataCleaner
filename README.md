@@ -1,5 +1,3 @@
-Here’s a sample README file for your project. You can customize it as needed:
-
 ---
 
 # Excel Data Cleaner
