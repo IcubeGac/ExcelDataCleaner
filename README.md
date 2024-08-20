@@ -2,12 +2,11 @@
 
 **Excel Data Cleaner** is a user-friendly tool designed to simplify the process of cleaning and processing Excel files. It provides a graphical interface for tasks such as removing duplicates, filling or dropping missing values, converting date formats, replacing values, correcting port names using fuzzy matching, converting text to uppercase, and combining import/export sheets.
 
-
 ## Download
 
-[![Download](https://img.shields.io/badge/Download-latest-blue.svg)](https://github.com/IcubeGac/ExcelDataCleaner/releases/download/v1.0/datacleaner.exe) \n
+[![Download](https://img.shields.io/badge/Download-latest-blue.svg)](https://github.com/IcubeGac/ExcelDataCleaner/releases/download/v1.0/datacleaner.exe)  
+<br>
 **Note that the file is not risky and comes from ICUBE - GAC**
-
 
 ## Features
 
