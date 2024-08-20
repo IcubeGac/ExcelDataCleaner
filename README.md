@@ -3,10 +3,10 @@
 ![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)
 ![Tkinter](https://img.shields.io/badge/tkinter-8.6-blue)
 
-## Download 
+## Download
 
-**Press the link to download** - https://github.com/IcubeGac/ExcelDataCleaner/releases/download/v1.0/datacleaner.exe
-Note that the file is not risky and comes from ICUBE - GAC
+[![Download](https://img.shields.io/badge/Download-latest-blue.svg)](https://github.com/IcubeGac/ExcelDataCleaner/releases/download/v1.0/datacleaner.exe)
+**Note that the file is not risky and comes from ICUBE - GAC**
 
 ## Overview
 
