@@ -5,7 +5,7 @@
 
 ## Download
 
-[![Download](https://img.shields.io/badge/Download-latest-blue.svg)](https://github.com/IcubeGac/ExcelDataCleaner/releases/download/v1.0/datacleaner.exe)
+[![Download](https://img.shields.io/badge/Download-latest-blue.svg)](https://github.com/IcubeGac/ExcelDataCleaner/releases/download/v1.0/datacleaner.exe) \n
 **Note that the file is not risky and comes from ICUBE - GAC**
 
 
